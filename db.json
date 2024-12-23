@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Advanced React",
+      "description": "Learn advanced concepts of React.js, one of the most popular JavaScript libraries for building user interfaces.",
+      "instructor": "John Doe",
+      "duration": "6 weeks",
+      "price": 600,
+      "level": "Advanced"
+    },
+    {
+      "id": "2",
+      "title": "Introduction to React",
+      "description": "Learn the basics of React.js, one of the most popular JavaScript libraries for building user interfaces.",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "price": 99.99,
+      "level": "Beginner"
+    },
+    {
+      "id": "3",
+      "title": "Introduction to React",
+      "description": "Learn the basics of React.js, one of the most popular JavaScript libraries for building user interfaces.",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "price": 99.99,
+      "level": "Beginner"
+    },
+    {
+      "id": "4",
+      "title": "Introduction to React",
+      "description": "Learn the basics of React.js, one of the most popular JavaScript libraries for building user interfaces.",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "price": 99.99,
+      "level": "Beginner"
+    }
+  ]
+}
